@@ -1,2 +1,2 @@
-# gera-som
-Gerador de som através de texto usando a biblioteca gTTS
+# Gera Som
+Conversor simples de texto em som usando a biblioteca gTTS
